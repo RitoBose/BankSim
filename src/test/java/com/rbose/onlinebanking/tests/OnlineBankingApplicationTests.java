@@ -1,4 +1,4 @@
-package com.hendisantika.onlinebanking;
+package com.rbose.onlinebanking.tests;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.springframework.beans.factory.annotation.Autowired;
